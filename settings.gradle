@@ -1,0 +1,4 @@
+rootProject.name='JModule'
+include ':app'
+//include ':JUtils'
+//include ':locationlib'
